@@ -5,8 +5,6 @@
 ### About Me
 
 I'm a passionate **Software Engineer** with a strong interest in **Mobile Development**. I love building innovative solutions and constantly exploring new technologies to solve real-world problems.
-
-.
 *   📫 How to reach me: You can drop me an email at **solerleon2@gmail.com**.
 
 ---
@@ -29,8 +27,6 @@ Here are some of the technologies I've been working with:
 ---
 
 ### GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SolerLeon&show_icons=true&theme=dark&count_private=false)](https://github.com/SolerLeon)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SolerLeon&layout=compact&theme=dark)](https://github.com/SolerLeon)
 
