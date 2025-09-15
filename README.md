@@ -36,7 +36,7 @@ Here are some of the technologies I've been working with:
 ### Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/leonsoler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="[your-linkedin-username]" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/leonsoler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="[leonsoler]" height="30" width="40" /></a>
 </p>
 
 ---
